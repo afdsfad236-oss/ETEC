@@ -1,0 +1,5 @@
+{
+  "name": "ETEC Exam Simulator",
+  "description": "A web application that provides a simulated exam experience for the ETEC (Escola Técnica Estadual) entrance test. Users can answer questions from a real past exam and receive a score upon completion.",
+  "requestFramePermissions": []
+}
